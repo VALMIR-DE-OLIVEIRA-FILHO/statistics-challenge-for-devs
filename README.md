@@ -1,2 +1,2 @@
 # statistics-challenge-for-devs
-Nesse desafio trataremos um dicionário utilizando as bibliotecas Pandas e MatplotLib para obter a média de vendas de uma loja e trazer visualizações mais objetivas utilizando gráficos de barra e linhas.
+In this challenge we will treat a dictionary using the Pandas and MatplotLib libraries to obtain the average sales of a store and bring more objective visualizations using bar and line graphs.
